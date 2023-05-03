@@ -14,5 +14,5 @@ Segments:
 
 The goal is to submit the results at the segment level for each property in the test dataset.
 
-#### [My solution]()(with explanation)
+#### [My solution](https://github.com/AndreyStartup/Hackathon-segment/blob/main/Hack1.ipynb)(with explanation)
 
