@@ -1,4 +1,4 @@
-# Hackathon-segment
+# The Great Real Estate Data Challenge
 
 [Link to hackathon](https://machinehack.com/hackathons/the_great_real_estate_data_challenge/overview)
 
