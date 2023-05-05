@@ -13,5 +13,7 @@ Finally, you need to submit your results as the segment level for each of the pr
 2: Standard Properties 🏘️💸<br></br>
 3: Budget Properties  🏠💵
 
+Evaluation - Accuracy
+
 ### [My solution](https://github.com/AndreyStartup/Hackathon-segment/blob/main/Hack1.ipynb)
 
