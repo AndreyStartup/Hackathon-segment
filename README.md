@@ -1,3 +1,6 @@
+<img src=https://github.com/AndreyStartup/Hackathon-segment/assets/114228619/93601c0c-731f-4160-828a-ff49975757cd>
+
+
 # The Great Real Estate Data Challenge
 
 [Link to hackathon](https://machinehack.com/hackathons/the_great_real_estate_data_challenge/overview)
